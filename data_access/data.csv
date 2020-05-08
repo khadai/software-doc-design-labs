@@ -1,0 +1,1014 @@
+
+PRODUCT_TYPES
+Book
+Film
+Music
+App
+
+PRODUCTS
+Wright,16.99,1.3,3
+Dailey,65.25,4.6,2
+Reynolds,12.88,1.0,4
+Campbell,71.4,4.3,3
+Copeland,31.5,1.6,3
+Gambino,54.29,4.9,4
+Snyder,77.19,4.2,2
+Boudreaux,86.01,3.2,3
+Campbell,43.92,4.7,1
+Moore,43.11,3.0,3
+Moline,26.99,2.0,3
+Mason,75.43,1.2,4
+Shinault,59.33,4.7,4
+Benton,17.46,3.4,3
+Smith,36.22,4.2,1
+Dishner,18.98,3.0,1
+Rummel,12.28,2.7,1
+Darden,76.58,3.7,3
+Turner,97.3,3.7,4
+Hassell,51.04,3.2,2
+Burke,63.37,2.5,3
+Diez,27.33,2.6,1
+Norman,80.24,3.0,1
+Meyer,84.05,4.8,2
+Workman,20.35,1.2,2
+Lillis,9.29,4.8,3
+Egger,87.78,4.5,2
+Klare,19.64,4.4,4
+Garrity,43.38,1.0,1
+Grossmann,20.39,3.7,4
+Ramos,47.21,2.7,2
+Banderas,2.9,1.2,3
+Emfinger,6.45,2.5,4
+Schmidt,72.49,4.9,2
+Cassiano,38.93,3.7,1
+Gramling,81.17,2.4,1
+Long,50.28,3.9,3
+Ray,24.9,4.7,4
+Bliss,70.93,1.2,4
+Lee,39.34,1.9,4
+Martinez,69.53,4.4,1
+Pekarek,60.77,2.8,4
+Barraza,32.79,1.7,2
+Tiley,59.96,3.7,2
+Jackson,62.28,4.6,4
+Varghese,12.9,4.4,3
+Clark,74.98,1.7,2
+Fielder,7.35,1.5,3
+Willett,40.23,5.0,2
+Orr,85.71,1.4,1
+Mckenzie,71.44,5.0,1
+Riley,27.33,2.5,4
+Gordon,9.5,4.2,1
+Smith,25.69,3.2,4
+Mayville,70.92,4.2,1
+Peak,31.51,2.4,2
+Walker,32.25,1.4,1
+Ulibarri,52.78,3.7,2
+Freeman,68.89,3.8,3
+Franks,86.45,3.1,2
+Mcdonald,55.73,2.7,3
+Jones,86.22,4.4,3
+Velasco,11.45,3.6,4
+Cummings,3.53,4.4,3
+Yancik,20.59,4.8,3
+Maloney,71.92,3.5,1
+Hussey,19.65,1.9,3
+Hoke,31.76,2.5,2
+Conner,98.82,2.2,2
+Ruthstrom,5.98,3.0,4
+Yeatts,29.14,1.4,2
+Trumbore,3.2,4.5,1
+Forbes,84.3,1.0,4
+Starr,6.3,4.2,3
+Sallade,13.76,3.7,1
+Hood,11.22,1.8,1
+Kaiser,55.31,2.5,2
+Hanna,5.24,2.7,2
+Ferland,93.16,2.3,3
+Jackson,57.41,2.2,4
+Payne,5.35,2.9,1
+Rochester,32.95,3.3,4
+Alarcon,23.37,3.7,4
+Anderson,90.77,3.7,1
+Warren,60.66,1.4,1
+Gardner,57.19,1.9,3
+Marshall,35.72,3.3,2
+Hao,62.58,3.5,2
+Guajardo,86.71,4.4,3
+Woods,84.44,4.2,4
+Carrington,84.81,4.3,4
+Thurman,0.39,4.2,1
+Aaron,84.12,2.5,3
+Madden,79.13,2.5,3
+Haywood,0.96,3.6,1
+Roddy,73.67,1.8,1
+Massengale,29.96,4.6,2
+Michaelis,28.72,3.2,2
+Freudenburg,88.53,3.4,2
+Nielson,4.79,3.9,4
+Workman,42.15,1.7,2
+Aldridge,55.97,2.1,3
+Garrett,75.17,3.0,1
+Drouin,35.32,1.8,2
+Lough,19.03,2.9,1
+Akins,30.99,3.6,4
+Pancoast,58.97,2.4,1
+Wingard,59.1,4.6,4
+Shim,39.33,2.2,1
+Caylor,67.37,3.3,2
+Swinson,35.09,3.5,1
+Solis,95.79,4.4,3
+Heverly,63.12,4.9,3
+Searby,35.95,3.7,1
+Marinelli,56.36,3.1,2
+Roehrig,4.27,1.7,2
+Morrison,13.34,1.9,2
+Romero,35.85,2.4,4
+Foy,42.67,1.2,2
+Swift,36.7,4.2,1
+Sanford,97.51,1.4,1
+Files,3.53,4.8,3
+Caldwell,6.52,1.8,3
+Shaw,99.73,4.7,2
+Reed,43.26,3.5,4
+Stjohn,13.22,2.5,3
+Ramos,32.67,3.9,3
+Schafer,16.56,4.1,4
+Allen,87.39,4.2,2
+Annas,43.92,3.0,4
+Britt,3.8,1.0,2
+Kitterman,5.53,3.8,3
+Clarke,53.34,3.7,3
+Sainz,71.25,2.8,4
+Brewer,59.75,4.6,2
+Roy,67.9,1.7,1
+Odegard,88.72,1.9,2
+Drennan,27.2,1.5,1
+Blount,39.89,2.6,4
+Shaul,95.52,2.0,3
+Wyss,88.63,4.8,3
+Richert,99.83,2.4,1
+Smiley,55.66,4.6,1
+Neeley,40.72,3.6,3
+Gream,57.72,4.2,1
+Leggett,61.22,2.4,2
+Beekman,30.96,4.9,3
+White,88.67,2.5,1
+Smith,46.72,3.8,3
+Masterson,52.29,2.8,3
+Warren,93.36,3.5,2
+Mcbride,80.48,2.7,4
+Gilmore,35.44,4.0,3
+Johnson,3.75,1.7,2
+Young,68.41,2.0,4
+Ortiz,57.58,3.7,3
+Nemerofsky,66.32,4.9,2
+Mcknight,34.22,2.9,1
+Rush,58.23,3.9,2
+Brockway,90.24,2.2,4
+Williams,6.94,3.4,2
+Hackworth,44.61,4.9,2
+Waltman,22.26,1.7,1
+Magee,43.97,3.8,1
+Greene,32.71,2.9,1
+Villarreal,84.52,1.5,1
+Hammond,35.93,1.1,4
+Mccullough,27.21,1.8,2
+Dansby,69.42,1.1,3
+Anderson,3.2,1.4,2
+Oquendo,27.02,1.1,1
+Leroy,13.19,2.9,2
+Inman,0.35,2.3,3
+Remington,86.48,4.0,2
+Fitzgerald,1.87,1.4,1
+Moore,85.91,4.1,3
+Barnett,85.66,4.0,2
+Valdez,15.26,4.7,2
+Schrader,86.34,3.4,2
+Dardar,14.8,2.7,4
+Brissett,89.82,4.6,3
+Gilbert,69.8,1.6,3
+Anderman,32.2,4.9,3
+Dejesus,38.59,2.4,2
+Thibodeaux,97.78,3.1,4
+Smith,36.46,3.4,2
+Edmunds,18.84,1.3,1
+Vest,51.15,4.2,2
+Seals,15.31,1.7,3
+Baker,69.83,2.5,3
+Coldwell,92.53,1.8,1
+Davis,52.95,4.3,1
+Witherspoon,69.97,3.3,1
+Taylor,68.48,3.1,3
+Phillips,47.75,3.8,1
+Durisseau,8.6,5.0,4
+Diamond,12.05,4.0,1
+Mcallister,3.72,3.3,3
+Hurley,91.96,2.8,1
+Vang,93.28,4.7,3
+Baker,27.39,1.3,2
+Keats,90.76,2.1,3
+Shields,47.26,4.1,1
+Meredith,8.1,4.1,3
+Smith,31.59,4.0,1
+Edwards,39.66,2.9,1
+Finney,16.96,1.2,1
+Ferguson,44.04,3.0,3
+Emmert,42.28,4.0,1
+Walker,22.9,4.5,4
+Sparrow,98.82,4.7,2
+Wheatley,63.22,4.6,2
+Magana,51.39,1.1,3
+Longerbeam,26.55,1.9,3
+Robinson,48.27,4.6,3
+Virgo,59.14,4.6,3
+Craig,9.77,2.3,3
+Gonzalez,75.94,3.1,2
+Ojeda,18.81,1.3,4
+Wade,49.36,2.4,3
+King,85.46,3.9,2
+Stclair,32.41,4.6,3
+Vanaria,19.58,3.6,3
+Martin,21.56,4.6,4
+Martinez,11.53,2.6,3
+Lee,58.05,2.3,4
+Jones,63.29,3.5,1
+Wilson,61.02,3.9,1
+King,29.27,2.6,2
+Strunk,96.44,4.4,2
+Jones,27.71,4.4,1
+Plowman,17.49,1.4,4
+Guzman,23.91,2.2,1
+Dickinson,95.44,4.7,3
+Huguenin,83.81,3.6,3
+Fenstermaker,40.02,1.4,1
+Martin,87.29,2.8,4
+Wilson,8.61,1.7,3
+Roberts,89.37,3.4,1
+Everson,28.64,3.0,2
+Farnes,29.11,1.4,3
+Barlow,81.81,2.2,4
+Pitts,10.03,3.2,1
+Mohr,4.97,3.9,1
+Corujo,85.27,3.8,4
+Smith,53.64,3.5,3
+Crowe,1.03,4.0,1
+Mccall,45.83,1.9,1
+Gillette,97.44,3.7,4
+Kealoha,80.31,1.1,3
+Sink,49.85,2.4,4
+Meyer,18.01,1.2,2
+Porto,29.67,1.0,2
+Toohey,55.86,5.0,4
+Becwar,13.49,1.3,4
+Pando,99.9,3.8,1
+Mcclung,69.64,3.5,1
+Mccauley,85.7,1.0,1
+Levesque,41.07,4.4,4
+Love,29.74,4.3,4
+Hatch,53.05,3.7,1
+Foster,18.94,3.7,1
+Raterman,65.95,2.9,1
+Crawford,86.27,2.8,2
+Mckenzie,57.2,3.5,3
+Schober,40.15,1.8,2
+Spencer,68.61,4.0,3
+Renner,82.96,3.6,2
+Helquist,78.82,1.3,2
+Temple,52.85,1.0,2
+Armbruster,86.45,1.1,4
+Bazemore,36.91,1.5,3
+Buddenhagen,4.74,4.3,2
+Curry,85.74,1.1,2
+Engle,28.72,2.7,4
+Reed,24.85,3.8,2
+Spaur,34.97,1.4,3
+Kleffman,95.59,1.7,3
+Kim,53.91,3.0,2
+Stockstill,25.08,2.9,1
+Robinson,46.2,3.4,1
+Rutledge,67.09,3.6,2
+Hamon,85.07,2.7,4
+Lara,23.46,4.5,3
+Starcher,46.95,4.8,4
+Ruff,23.61,4.2,1
+Collins,2.51,1.8,3
+Howell,72.12,4.6,2
+Autrey,65.44,4.9,4
+Williams,8.42,2.4,3
+Vitale,8.51,3.1,1
+Rivera,40.74,2.6,3
+Horstmann,53.16,2.9,3
+Harrison,93.13,2.6,4
+Peck,23.92,2.8,2
+Draper,75.6,3.8,3
+Coleman,33.24,1.4,4
+Maleski,0.71,3.1,1
+Case,1.32,2.6,2
+Ballance,40.03,2.1,1
+
+PAYMENT METHODS
+4660756728216390,Visa,84
+5040349824511712,Visa,298
+6096731859852250,Visa,215
+5969008979831847,MasterCard,59
+1723575491518783,MasterCard,299
+8376531209477029,Visa,292
+7876667476095538,MasterCard,128
+5263029846377201,Visa,185
+6695533230237080,MasterCard,27
+8560687902909563,American Express,158
+4133016143067871,Visa,267
+3834770811384271,American Express,34
+1132479809995906,MasterCard,179
+4212146461165664,American Express,92
+5168883944351652,Visa,58
+2461949399106979,American Express,271
+7557057771961576,MasterCard,129
+1972136724282591,American Express,46
+7364967978916661,American Express,147
+8807157697697744,MasterCard,34
+5466502533759905,MasterCard,125
+6302460113530040,MasterCard,24
+3080284299231616,MasterCard,128
+7532005461260399,Visa,128
+8487965011972910,American Express,152
+3731686938320342,MasterCard,91
+3858671971939627,American Express,117
+6426504775451746,American Express,166
+6319094651946209,American Express,149
+9960881026479160,MasterCard,249
+2796748672098493,MasterCard,108
+9466100308757745,Visa,67
+4649443918359483,MasterCard,84
+5776085090363539,MasterCard,11
+5449170241901323,Visa,111
+7320523962884549,Visa,52
+8796311542770786,American Express,112
+8578405378802715,Visa,36
+2465883497929892,Visa,64
+7106092075876083,MasterCard,17
+3445796790727407,MasterCard,240
+6243449796947153,Visa,181
+6684247105205641,Visa,50
+8886753162941401,American Express,14
+2940424925191115,American Express,194
+5648275140138075,MasterCard,18
+8338701703493874,MasterCard,67
+7286926589867245,American Express,94
+4954805570233640,Visa,1
+1486223270195006,Visa,51
+4726435663377415,Visa,123
+1125245565314186,MasterCard,175
+2917030733628539,American Express,78
+5040743941032962,American Express,32
+8129619898065095,MasterCard,223
+5994121414631655,American Express,298
+7390127951780204,MasterCard,168
+2215004019846337,American Express,13
+6372302912946129,Visa,274
+8943952676598634,American Express,76
+8076903124986917,Visa,182
+8171943105817596,MasterCard,255
+3368150514298302,American Express,111
+1336968933192795,MasterCard,66
+6916084564436705,American Express,273
+9392546759031563,American Express,18
+8363332759382369,MasterCard,263
+3467401206100475,Visa,243
+8508768224627632,Visa,93
+3989347201923424,American Express,136
+4718579470219865,MasterCard,4
+8449480695084805,MasterCard,1
+7989474872609794,American Express,298
+1650938674503665,American Express,64
+1632783462613278,MasterCard,123
+6684495239147165,MasterCard,157
+9402418458942267,Visa,279
+2378683931473107,MasterCard,91
+9287898752991897,Visa,30
+8076582565762583,Visa,91
+1808010041826667,Visa,162
+7039251158240088,Visa,204
+9054940226190232,American Express,168
+1667538291292219,MasterCard,38
+4837869783958634,American Express,259
+2754970658917361,Visa,222
+7053218590824524,Visa,248
+7562209600375730,American Express,260
+3068564749247938,MasterCard,187
+6935798859956865,Visa,278
+3176586462497955,American Express,141
+8448097825944172,Visa,199
+8922913024030236,MasterCard,196
+3500738016547416,Visa,4
+2978968899045041,American Express,145
+3932123534406422,American Express,37
+6589615591317594,MasterCard,7
+1043577294029945,MasterCard,95
+8984002395868027,MasterCard,266
+7246354648070328,Visa,88
+7382799482562237,Visa,32
+5113656115224871,Visa,180
+9700886256005515,American Express,40
+4764827293426674,MasterCard,201
+1447124470305012,Visa,139
+7977790873194253,Visa,200
+2813460914334839,MasterCard,54
+6912192892710802,Visa,245
+5650244879489160,American Express,40
+6358601764079831,Visa,160
+7768920836836498,MasterCard,206
+1836880776539154,American Express,8
+2842635639315307,MasterCard,200
+6722105143929949,MasterCard,41
+1482440847062414,MasterCard,195
+4228586650296190,MasterCard,201
+3747031180628445,American Express,105
+7739463437520307,Visa,201
+2430315234642514,Visa,258
+4952181174025154,American Express,198
+1025027354652719,MasterCard,152
+5080860049134791,MasterCard,67
+4843119113677166,Visa,202
+1806645899222688,American Express,52
+9821176909902069,MasterCard,161
+7753149181986607,American Express,58
+3599497240925340,American Express,86
+9024395208634352,MasterCard,275
+4888956662916518,American Express,121
+1713861955881276,MasterCard,202
+4033065038077002,MasterCard,185
+9352617655921584,MasterCard,287
+2666747995167734,American Express,273
+5406750899689988,American Express,141
+9389378505683339,MasterCard,51
+3166497411341976,Visa,290
+1516098747056854,MasterCard,25
+7057166692034228,Visa,139
+2503260519053766,MasterCard,272
+1817891934383045,American Express,116
+6815003972442810,MasterCard,193
+6659630220872686,MasterCard,41
+3207742465979631,MasterCard,55
+9172880465169727,MasterCard,254
+3232514770755711,MasterCard,189
+1440702758390719,MasterCard,139
+1051417710644495,American Express,218
+3631801542425715,MasterCard,276
+8892683347668755,American Express,96
+7670043611045598,American Express,175
+7845216785435907,American Express,135
+4837907046409170,American Express,199
+8032957272284671,Visa,3
+6510819988439827,Visa,74
+7611497304818369,Visa,176
+2794633881542860,American Express,224
+3278872717931174,American Express,203
+2876649034651820,MasterCard,230
+1933783126724261,Visa,71
+1356592882027390,MasterCard,212
+3045063607045626,Visa,255
+2666611139210097,MasterCard,61
+7860374914940243,MasterCard,132
+2198450168869665,American Express,251
+6384502061898581,MasterCard,218
+3979161330244496,MasterCard,21
+3808233597684309,American Express,152
+6016462159355316,American Express,38
+4278682371809387,Visa,33
+5419943284615262,MasterCard,41
+4667263441398635,American Express,46
+1205387513184545,American Express,155
+1117441022092418,Visa,134
+2639859561814310,American Express,241
+2247949454994053,Visa,179
+5076136900226644,Visa,52
+9074143789555942,MasterCard,167
+5388343970954544,MasterCard,232
+8108476147198545,American Express,285
+4814020483800018,MasterCard,238
+5209949173821752,MasterCard,163
+5269188396056338,MasterCard,103
+5771766865131952,American Express,112
+7958997297639919,Visa,289
+7418858035818400,Visa,94
+7446095811233385,MasterCard,277
+2410314682445915,American Express,199
+5876685770120666,Visa,28
+5940315943993778,MasterCard,53
+2627462043964111,Visa,200
+1171999273081640,American Express,220
+3163379220970792,Visa,83
+6416557933547683,Visa,284
+9678354001870821,Visa,65
+7962659256592785,Visa,152
+9535613633649626,American Express,89
+7794466508208969,Visa,171
+9958537718208090,Visa,84
+6672949785939026,Visa,222
+7142508178305394,MasterCard,27
+
+CUSTOMERS
+Sharon Rainey,sharon.rainey@gmail.com
+Garland Spruill,garland.spruill@ukr.net
+Mary Brooks,mary.brooks@gmail.com
+Doris Estrada,doris.estrada@ukr.net
+Otto Huntzinger,otto.huntzinger@ukr.net
+Crystal Champion,crystal.champion@ukr.net
+Carolyn Sherman,carolyn.sherman@gmail.com
+Kenneth Bartlett,kenneth.bartlett@gmail.com
+Anita Dickson,anita.dickson@ukr.net
+Christine Benitez,christine.benitez@gmail.com
+Tiffany Wood,tiffany.wood@gmail.com
+John Pittman,john.pittman@ukr.net
+Mary Archambeault,mary.archambeault@ukr.net
+Danny Church,danny.church@ukr.net
+Darren Moreno,darren.moreno@gmail.com
+Daniel Brooks,daniel.brooks@gmail.com
+William Manuel,william.manuel@gmail.com
+Gregory Lee,gregory.lee@gmail.com
+Robert Henry,robert.henry@gmail.com
+Herbert Carper,herbert.carper@gmail.com
+Louise Perrez,louise.perrez@ukr.net
+Francisco Evans,francisco.evans@gmail.com
+Charles Struthers,charles.struthers@ukr.net
+Jean Quinones,jean.quinones@gmail.com
+Laurie Schappert,laurie.schappert@gmail.com
+James Chastain,james.chastain@gmail.com
+Minnie Bieber,minnie.bieber@ukr.net
+Carroll Alaniz,carroll.alaniz@ukr.net
+Jeremy Jordan,jeremy.jordan@ukr.net
+Leta Penn,leta.penn@ukr.net
+Joseph Trebilcock,joseph.trebilcock@gmail.com
+Cameron Cervantes,cameron.cervantes@gmail.com
+George Holland,george.holland@ukr.net
+Mary Quick,mary.quick@ukr.net
+Charlotte Kaua,charlotte.kaua@gmail.com
+Clarice Gess,clarice.gess@gmail.com
+Linda Middleton,linda.middleton@gmail.com
+Gerald Winebrenner,gerald.winebrenner@gmail.com
+Margaret Kimple,margaret.kimple@ukr.net
+Wilhelmina Nordstrom,wilhelmina.nordstrom@gmail.com
+Jennie Chambers,jennie.chambers@ukr.net
+Julie Lewison,julie.lewison@ukr.net
+Gregorio Covington,gregorio.covington@ukr.net
+Mozelle Heck,mozelle.heck@gmail.com
+Kimberly Johnson,kimberly.johnson@ukr.net
+Ashley Melchior,ashley.melchior@ukr.net
+Merrill Walker,merrill.walker@ukr.net
+Nathan Myers,nathan.myers@ukr.net
+Everett Lorenzo,everett.lorenzo@gmail.com
+Mark Grubbs,mark.grubbs@ukr.net
+Gary Bolduc,gary.bolduc@gmail.com
+Natalia Goode,natalia.goode@ukr.net
+Lillian Everett,lillian.everett@ukr.net
+Frances Rivas,frances.rivas@gmail.com
+Raymond Reed,raymond.reed@ukr.net
+Tony Simmons,tony.simmons@ukr.net
+Carolyn Lopez,carolyn.lopez@ukr.net
+Brian White,brian.white@ukr.net
+Joanne Faust,joanne.faust@gmail.com
+Anne Burnette,anne.burnette@gmail.com
+Rodney Tucker,rodney.tucker@gmail.com
+Brittany Markham,brittany.markham@ukr.net
+Kerry Morales,kerry.morales@gmail.com
+Betty Koehler,betty.koehler@ukr.net
+Joan Carroll,joan.carroll@ukr.net
+Carolyn Richey,carolyn.richey@ukr.net
+Robert Jackson,robert.jackson@gmail.com
+Chris Stahlhut,chris.stahlhut@gmail.com
+Elinor Allen,elinor.allen@ukr.net
+Manuel Davis,manuel.davis@ukr.net
+Sonia Howell,sonia.howell@ukr.net
+Kyle Lopez,kyle.lopez@gmail.com
+Peter Boyes,peter.boyes@ukr.net
+Sheldon Alexander,sheldon.alexander@gmail.com
+Heather Greenup,heather.greenup@gmail.com
+Rosalyn Perkins,rosalyn.perkins@ukr.net
+Nathan Dorsey,nathan.dorsey@gmail.com
+Jesus Kubiszewski,jesus.kubiszewski@gmail.com
+Raymond Walker,raymond.walker@ukr.net
+Barbara Turner,barbara.turner@gmail.com
+Eric Reynolds,eric.reynolds@gmail.com
+Cleo Williams,cleo.williams@ukr.net
+Michael Beck,michael.beck@ukr.net
+Lisa Alvarez,lisa.alvarez@ukr.net
+Rodolfo Turner,rodolfo.turner@ukr.net
+Vera Pedrick,vera.pedrick@gmail.com
+Freida Hillard,freida.hillard@gmail.com
+Patrice Kirby,patrice.kirby@ukr.net
+Doris Foley,doris.foley@ukr.net
+Matthew Pond,matthew.pond@ukr.net
+Curtis Jackson,curtis.jackson@gmail.com
+Steven Dutton,steven.dutton@ukr.net
+Luis Staggs,luis.staggs@ukr.net
+Chong Shahan,chong.shahan@gmail.com
+Angie Donnell,angie.donnell@ukr.net
+Clarence Collins,clarence.collins@gmail.com
+Robert Sanchez,robert.sanchez@ukr.net
+Heidi Martinez,heidi.martinez@ukr.net
+Luke Meredith,luke.meredith@ukr.net
+Jacqueline Aguino,jacqueline.aguino@ukr.net
+Dorothy Matteucci,dorothy.matteucci@ukr.net
+Sylvia Price,sylvia.price@ukr.net
+Suzanne Penny,suzanne.penny@gmail.com
+Antonia Forbes,antonia.forbes@ukr.net
+Margaret Combs,margaret.combs@ukr.net
+Joseph Thomas,joseph.thomas@gmail.com
+Andrew Kleis,andrew.kleis@gmail.com
+Micheal Perez,micheal.perez@ukr.net
+Marvin Bowman,marvin.bowman@ukr.net
+Karen Ham,karen.ham@ukr.net
+Elizabeth Bell,elizabeth.bell@gmail.com
+Christopher Mintz,christopher.mintz@gmail.com
+Pedro Everett,pedro.everett@ukr.net
+Linda Deherrera,linda.deherrera@gmail.com
+David Isaacs,david.isaacs@gmail.com
+Janet Walker,janet.walker@gmail.com
+Michael Bethell,michael.bethell@ukr.net
+Glenn Moore,glenn.moore@ukr.net
+Dawn Zimmerman,dawn.zimmerman@gmail.com
+April Lenoir,april.lenoir@gmail.com
+Barbara Payne,barbara.payne@gmail.com
+James Mizutani,james.mizutani@gmail.com
+Andrew Kieffer,andrew.kieffer@ukr.net
+Melissa Estep,melissa.estep@ukr.net
+Carol Box,carol.box@gmail.com
+Carmela Yen,carmela.yen@gmail.com
+Melvin White,melvin.white@ukr.net
+Curtis Weber,curtis.weber@gmail.com
+Douglas Goodman,douglas.goodman@ukr.net
+Christopher Dabadie,christopher.dabadie@gmail.com
+Leona Almodovar,leona.almodovar@ukr.net
+Shawn Layton,shawn.layton@ukr.net
+Celia Adair,celia.adair@ukr.net
+Lucille Hudson,lucille.hudson@ukr.net
+Mildred Patrick,mildred.patrick@gmail.com
+Richard Gardner,richard.gardner@gmail.com
+Frederick Jones,frederick.jones@gmail.com
+Betty Iddings,betty.iddings@ukr.net
+Kenneth Robinson,kenneth.robinson@ukr.net
+Judith Nowicki,judith.nowicki@gmail.com
+Ann Oswalt,ann.oswalt@ukr.net
+Krista Cavanagh,krista.cavanagh@gmail.com
+Jason Dunaway,jason.dunaway@gmail.com
+Brenda Friedle,brenda.friedle@ukr.net
+Audrey Green,audrey.green@gmail.com
+Carla Matthews,carla.matthews@ukr.net
+Donna Zazula,donna.zazula@ukr.net
+Barbara Werk,barbara.werk@ukr.net
+Bernice Zeiner,bernice.zeiner@gmail.com
+Margaret Hill,margaret.hill@gmail.com
+Millie Lachance,millie.lachance@ukr.net
+William Dance,william.dance@gmail.com
+Richard Holland,richard.holland@gmail.com
+Teresa Lavallee,teresa.lavallee@ukr.net
+Lucy Rimson,lucy.rimson@gmail.com
+Ericka Sanchez,ericka.sanchez@ukr.net
+Vera Potter,vera.potter@ukr.net
+Robert Henderson,robert.henderson@gmail.com
+Peter Hall,peter.hall@gmail.com
+Tomika Vincent,tomika.vincent@ukr.net
+Brenda Goldsmith,brenda.goldsmith@gmail.com
+Antonio Sneeden,antonio.sneeden@ukr.net
+James Perry,james.perry@ukr.net
+Janet Geer,janet.geer@ukr.net
+Carol Doten,carol.doten@gmail.com
+Betty Millan,betty.millan@gmail.com
+Raymond Williams,raymond.williams@ukr.net
+Melinda Simonton,melinda.simonton@ukr.net
+Charmaine Ayala,charmaine.ayala@gmail.com
+Lucille Rasmussen,lucille.rasmussen@gmail.com
+Timothy Adams,timothy.adams@ukr.net
+Steve Halsey,steve.halsey@ukr.net
+Mary Boyce,mary.boyce@gmail.com
+James Bulat,james.bulat@gmail.com
+Gilbert Black,gilbert.black@gmail.com
+Susana Ratchford,susana.ratchford@ukr.net
+Stanley Gauss,stanley.gauss@gmail.com
+Sallie Kimball,sallie.kimball@ukr.net
+Larry Shaw,larry.shaw@ukr.net
+Kathleen Scroggs,kathleen.scroggs@gmail.com
+Mavis Irons,mavis.irons@ukr.net
+Leroy Treanor,leroy.treanor@ukr.net
+Amber Banker,amber.banker@gmail.com
+Rhonda Mccall,rhonda.mccall@ukr.net
+Victor Brunelle,victor.brunelle@ukr.net
+Deborah Henrick,deborah.henrick@ukr.net
+Russell Arana,russell.arana@gmail.com
+James Wade,james.wade@gmail.com
+Nancy Martinez,nancy.martinez@gmail.com
+Donna Martin,donna.martin@gmail.com
+Margarita Haynes,margarita.haynes@gmail.com
+Lindsay Evans,lindsay.evans@ukr.net
+Judy Gupton,judy.gupton@gmail.com
+Royce Perry,royce.perry@ukr.net
+Judith White,judith.white@gmail.com
+Diane Blackburn,diane.blackburn@ukr.net
+Howard Washington,howard.washington@gmail.com
+Kris Bryant,kris.bryant@ukr.net
+Michael Cypert,michael.cypert@gmail.com
+Howard Santana,howard.santana@gmail.com
+Chelsea Homer,chelsea.homer@gmail.com
+Leatrice Woods,leatrice.woods@ukr.net
+Brandy Ambrosino,brandy.ambrosino@ukr.net
+Anna Cullen,anna.cullen@gmail.com
+Valerie Fowler,valerie.fowler@ukr.net
+Fredric Perez,fredric.perez@gmail.com
+Shana Gard,shana.gard@ukr.net
+David Heichel,david.heichel@gmail.com
+Helen Clark,helen.clark@ukr.net
+William Strapp,william.strapp@ukr.net
+Edward Mcginley,edward.mcginley@gmail.com
+Carmen Roussos,carmen.roussos@ukr.net
+Jill Collins,jill.collins@ukr.net
+Frank Gregory,frank.gregory@gmail.com
+Felicia Barbour,felicia.barbour@ukr.net
+Matthew Bombard,matthew.bombard@ukr.net
+Ginger Scharfenberg,ginger.scharfenberg@ukr.net
+Phyllis Shockey,phyllis.shockey@gmail.com
+Gerald Few,gerald.few@gmail.com
+Dwight Baklund,dwight.baklund@ukr.net
+Janice Lester,janice.lester@gmail.com
+Anthony Gammon,anthony.gammon@gmail.com
+Kimberly Wight,kimberly.wight@ukr.net
+Karen Mcnutt,karen.mcnutt@ukr.net
+Juli Statler,juli.statler@ukr.net
+Barbara Cole,barbara.cole@ukr.net
+Kendra Normand,kendra.normand@gmail.com
+Donald David,donald.david@gmail.com
+Olivia Reese,olivia.reese@gmail.com
+Betty Clement,betty.clement@gmail.com
+Shirley Baker,shirley.baker@ukr.net
+Daryl Buchheit,daryl.buchheit@gmail.com
+David Chandler,david.chandler@ukr.net
+Mary Allmon,mary.allmon@ukr.net
+Kim Taft,kim.taft@ukr.net
+Gary Coon,gary.coon@gmail.com
+Stephen Netolicky,stephen.netolicky@ukr.net
+James Sanford,james.sanford@ukr.net
+Eneida Cultice,eneida.cultice@ukr.net
+Mary Allamong,mary.allamong@gmail.com
+James Hooper,james.hooper@gmail.com
+Frances Bratton,frances.bratton@ukr.net
+Ellen Clennon,ellen.clennon@gmail.com
+Paul Tennant,paul.tennant@gmail.com
+Gary Mahoney,gary.mahoney@gmail.com
+Theodore Battaglia,theodore.battaglia@ukr.net
+Robert Speegle,robert.speegle@ukr.net
+Donald Mulloy,donald.mulloy@ukr.net
+Vanna Messer,vanna.messer@ukr.net
+John Ferguson,john.ferguson@gmail.com
+Dorothy Preston,dorothy.preston@gmail.com
+Ricardo Gaskins,ricardo.gaskins@gmail.com
+John Tovar,john.tovar@ukr.net
+Kristine Blakely,kristine.blakely@gmail.com
+Nancy Mcelfresh,nancy.mcelfresh@gmail.com
+Amy Aliff,amy.aliff@gmail.com
+Dustin Devine,dustin.devine@ukr.net
+Diana Gaddy,diana.gaddy@ukr.net
+Blake Owens,blake.owens@ukr.net
+Janet Marshall,janet.marshall@gmail.com
+Jason Masterson,jason.masterson@gmail.com
+William Hamilton,william.hamilton@gmail.com
+Michelle Gray,michelle.gray@gmail.com
+Danny Vath,danny.vath@gmail.com
+Thomas Snyder,thomas.snyder@gmail.com
+John Crayton,john.crayton@gmail.com
+David Gray,david.gray@gmail.com
+Jonathan Grant,jonathan.grant@gmail.com
+Lois Stenson,lois.stenson@ukr.net
+Raymond Gose,raymond.gose@gmail.com
+Elanor Southard,elanor.southard@ukr.net
+Janet Kelley,janet.kelley@gmail.com
+Carla Norman,carla.norman@ukr.net
+Cheryl Williams,cheryl.williams@ukr.net
+Tammy Phillips,tammy.phillips@gmail.com
+Martha Mills,martha.mills@ukr.net
+Marguerite Pruitt,marguerite.pruitt@gmail.com
+Larry Tyler,larry.tyler@gmail.com
+Warren King,warren.king@gmail.com
+Albert Contreras,albert.contreras@ukr.net
+Timothy Northover,timothy.northover@gmail.com
+Lucy Gamboa,lucy.gamboa@gmail.com
+Travis Carter,travis.carter@ukr.net
+Diane Woods,diane.woods@ukr.net
+Tanika Fowler,tanika.fowler@ukr.net
+Susan Bonneville,susan.bonneville@ukr.net
+Betty Matthews,betty.matthews@gmail.com
+Gerardo Rison,gerardo.rison@ukr.net
+Christopher Seidl,christopher.seidl@gmail.com
+Mary Calumag,mary.calumag@ukr.net
+Luther Hunter,luther.hunter@gmail.com
+Francoise Joe,francoise.joe@ukr.net
+Terri Johnson,terri.johnson@gmail.com
+John Johnson,john.johnson@gmail.com
+Harry Rasset,harry.rasset@ukr.net
+Martha Massey,martha.massey@ukr.net
+Loren Cowan,loren.cowan@ukr.net
+Samuel Ross,samuel.ross@gmail.com
+Carl Pryor,carl.pryor@gmail.com
+Brent Casparian,brent.casparian@ukr.net
+
+CUSTOMER HAS PRODUCT
+261,179
+245,140
+189,191
+7,140
+140,79
+17,228
+157,164
+119,296
+182,215
+108,83
+70,104
+276,184
+167,35
+3,221
+125,165
+224,274
+35,165
+270,109
+103,225
+100,125
+92,215
+206,53
+277,53
+192,192
+127,269
+287,26
+66,116
+229,108
+56,209
+130,287
+38,274
+18,119
+9,272
+163,262
+193,240
+72,203
+231,202
+269,267
+235,117
+97,42
+179,115
+14,154
+28,133
+14,71
+244,20
+134,202
+40,282
+119,245
+148,154
+77,11
+296,93
+208,24
+183,53
+101,232
+284,124
+251,282
+124,86
+288,247
+284,298
+216,42
+74,270
+239,121
+252,4
+287,167
+180,246
+209,245
+225,104
+231,214
+181,125
+80,273
+77,87
+29,113
+63,245
+134,269
+34,296
+31,263
+77,75
+131,172
+236,23
+11,298
+159,216
+288,241
+166,159
+220,235
+48,205
+216,273
+151,163
+242,61
+196,3
+125,158
+275,111
+281,229
+46,132
+114,182
+95,162
+164,198
+36,298
+54,28
+91,132
+229,277
+186,137
+273,267
+263,67
+279,114
+86,252
+265,139
+133,93
+187,100
+11,267
+253,283
+135,174
+186,288
+246,265
+259,137
+134,34
+255,258
+177,211
+279,22
+64,46
+43,46
+21,152
+167,45
+98,75
+161,12
+265,190
+100,64
+49,56
+287,75
+135,228
+4,42
+257,228
+114,279
+238,240
+57,40
+13,236
+50,264
+123,76
+47,65
+174,95
+154,6
+244,134
+12,28
+86,119
+212,7
+56,191
+257,111
+40,69
+166,20
+124,198
+21,3
+48,232
+58,68
+263,166
+271,77
+125,238
+267,256
+280,12
+142,104
+181,81
+190,129
+287,254
+53,45
+212,46
+179,193
+74,160
+186,171
+81,46
+39,174
+104,166
+196,1
+37,66
+68,23
+295,82
+224,278
+76,161
+41,190
+16,210
+26,100
+57,199
+181,84
+148,125
+171,180
+263,120
+67,190
+152,37
+104,141
+129,35
+16,284
+117,62
+232,268
+30,207
+194,76
+171,37
+186,214
+225,258
+74,123
+46,119
+46,17
+170,49
+11,244
