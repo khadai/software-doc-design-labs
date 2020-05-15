@@ -2,9 +2,7 @@ import os
 import re
 
 from conf.db_conf import Session, engine, Base
-from models.customer_product_model import Customer, Product, association_table
-from models.product_type_model import ProductType
-from models.payment_method_model import PaymentMethod
+from models.models import PaymentMethod,Product,ProductType,association_table,Customer
 
 Base.metadata.create_all(engine)
 
