@@ -66,9 +66,9 @@ class CsvGenerator:
             self.generate_payments(file, self.PAYMENT_METHODS_AMOUNT)
             self.generate_customers(file, self.CUSTOMERS_AMOUNT)
             self.generate_cust_has_product(file, self.CUST_HAS_PRODUCTS_AMOUNT)
+            print("CSV generated!")
 
 
 if __name__ == '__main__':
-    print(names.get_last_name())
     csv_gen = CsvGenerator()
     csv_gen.generate_csv()

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% include 'header.html' %}
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10" style="margin-bottom: 5px">
+                <p>Product List Page</p>
+            </div>
+            <div class="col-md-2" style="margin-bottom: 5px">
+                <div class="btn btn-block btn-primary" onclick="createOnClick('product')">Add Product</div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <table id="product_table" class="table table-striped table-bordered">
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+
+{% include 'footer.html' %}
+<script>
+    $(document).ready(function() {
+        table = $('#product_table').DataTable( {
+            responsive: true,
+            processing: true,
+            ajax: "/products",
+            ordering: false,
+            searching: false,
+            columns: [
+                { title: 'Product name', data: 'product_name' },
+                { title: 'Product type', data : 'product_type' },
+                { title: 'Price', data: 'price' },
+                { title: 'Rating', data: 'rating' },
+                { title: 'Action', width: '20%', render: function ( data, type, row, meta ) {
+                    return `<div class="row"><div class="col-sm-6"><div class="btn btn-block btn-primary"
+                            onclick="editOnClick('product', ${row.id})">Edit</div></div>
+                            <div class="col-sm-6"><div class="btn btn-block btn-danger"
+                            onclick="deleteOnClick('product', ${row.id})">Delete</div></div></div>`
+                    }
+                }
+            ]
+        } );
+    } );
+</script>
+</html>
